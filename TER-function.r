@@ -1,5 +1,8 @@
 #### 17-02-21
 
+### MODIFICATION ####
+
+
 library(plotly)
 # Fonction Moyenne arithm?tique glissante
 
